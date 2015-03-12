@@ -1,0 +1,7 @@
+using System. ..;
+{
+int variable_a = Convert.ToInt16(textbox1.Text);
+int variable_b = Convert.ToInt16(textbox1.Text);
+
+MessageBox.Show("a = "+variable_a+" and b = "+variable_b+" adding both gives : "+(variable_a + variable_b));
+}
